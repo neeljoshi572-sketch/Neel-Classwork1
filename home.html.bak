@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><img src="https://png.pngtree.com/png-vector/20250910/ourmid/pngtree-restaurant-logo-with-chef-hat-and-fork-spoon-symbol-png-image_17398231.webp" width="100" height="100" border="0" alt=""></center>
+  <center><a href="index.html">Home</a>
+  <a href="about.html">About Us</a>
+  <a href="menu.html">Menu</a>
+  <a href="gallery.html">Gallery</a>
+  <a href="chef.html">Chef</a>
+  <a href="reservation.html">Reservation</a>
+  <a href="blog.html">Blog</a>
+  <a href="contact.html">Contact Us</a></center>
+  <hr>
+<Main>
+  <center><h1>Spice Garden</h1></center>
+  <p>restaurant, establishment where refreshments or meals may be procured by the public. The public dining room that ultimately came to be known as the restaurant originated in France, and the French have continued to make major contributions to the restaurant’s development.
+  Although inns and hostelries often served paying guests meals from the host’s table, or table d’hôte, and beverages were sold in cafés, Boulanger’s restaurant was probably the first public place where any diner might order a meal from a menu offering a choice of dishes.
+  Boulanger operated a modest establishment; it was not until 1782 that La Grande Taverne de Londres, the first luxury restaurant, was founded in Paris. The owner, Antoine Beauvilliers, a leading culinary writer and gastronomic authority, later wrote L’Art du cuisinier (1814), a cookbook that became a standard work on French culinary art. Beauvilliers achieved a reputation as an accomplished restaurateur and host, and the French aphorist and gastronomic chronicler Jean-Athelme Brillat-Savarin, a frequent guest, credited Beauvilliers with being</P>.
+  <center><input type="button" value="" onclick=""></center>
+  <center><input type="button" value="" onclick=""></center>
+  <table>
+  <tr>
+	<td><img src="https://maunikagowardhan.co.uk/wp-content/uploads/2018/11/Gobi-Manchurian-370x230.jpg" width="" height="" border="0" alt=""></td>
+	<td><img src="https://maunikagowardhan.co.uk/wp-content/uploads/2013/04/Mango-Cardamom-Barfi-2-370x230.jpg" width="" height="" border="0" alt=""></td>
+	<td><img src="https://maunikagowardhan.co.uk/wp-content/uploads/2022/02/IMG_4548-370x230.jpeg" width="" height="" border="0" alt=""></td>
+  </tr>
+  <tr>
+	<td><center><h3>Gobi Manchurian</h3></center></td>
+	<td><center><h3>Mango Barfi</h3></center></td>
+	<td><center><h3>Hariyali Gosht</h3></center></td>
+  </tr>
+  <tr>
+	<center><td>With Indo-Chinese influences this is just one of the few delicious dishes that is relished across cities in India. A definite on the menu for vegetarians; Gobi Manchurian is coated in a chilli garlic sauce with spring onions. The sauce is rich and thick enough to coat the crispy cauliflower. Served with noodles or eggs fried rice as a main course. I will be serving it as a starter so I prefer a rich sauce although you can thin it out with some stock if you would like a little more gravy. Alot of dishes use corn flour to thicken the gravy although if you have a concentrated chilli garlic sauce that will help. If the sauce is thin you can mix 1 tsp of corn flour with a splash of water and add it while the Manchurian is simmering.
+
+The sauce can also be made in advance and just reheated with the cauliflower when you’re ready to serve.</td></center>
+	<center><td>Its finally here!! I think the best part of every year has got to be Mango season, especially when Alphonso mangoes come flooding through from April. Of course there are all sorts of varieties that are in season until late July. Pairi, Hapoos, Kesar, Totapuri and Dasehri are the one’s we would eat when I lived in India. There is also the Chaunsa variety which is available all through July/ August.</td></center>
+	<center><td>The vibrant colour and flavour of green herbs make a delicious addition to marinades, tandoori dishes, breads and gravies. In Indian cooking, a lot of green leafy veg also get added to give the required colour but I find the addition of mint and coriander such an unbeatable combination. Commonly used in chutneys, I have added both here to a lamb curry. I always prefer to cook lamb on the bone for loads more flavour in the gravy and also the bone marrow adds much more as it melts in the curry. There is a delicious bone marrow curry in my new cookbook Thali and I think it lends something truly special!</td></center>
+  </tr>
+  </table>
+  
+  <center><p>Welcome aboard! We’re excited to help you Spice grden. To get you started, we recommend trying out [Key Feature #1]—it’s a user favorite and the quickest way to see the value. Don’t be afraid to click around and explore; you can’t break anything! If you want a quick tour, check out our 3-minute introductory video. Our support team and knowledge base are always just a click away if you need a hand.</p></center>
+ 
+  <hr>
+  <center><strong>&copy;All Right Reserved by Spice Garden</strong></center>
+ </body>
+</html>
